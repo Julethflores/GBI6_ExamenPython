@@ -1,10 +1,9 @@
 # GBI6_ExamenPython
 # DATOS PERSONALES 
-#Juleth Belsabeth Flores Guerrero
-#21 años 
-#Carrera de Ingeniería en Biotecnologia 
-#Sexto semestre
-#Domicilio Pto Napo 
+# Juleth Belsabeth Flores Guerrero
+#  21 años 
+# Carrera de Ingeniería en Biotecnología
+# Domicilio Pto Napo 
  
 ##  CARACTERISTICAS DEL COMPUTADOR 
 Nombre del dispositivo	DESKTOP-2U9K9DS
