@@ -1,0 +1,14 @@
+@@ -58,6 +58,7 @@ def map_science(tipo):
+            zip_count . agregar ( códigos postales . contar ( z ))
+    importar  matplotlib . pyplot  como  plt
+    #%matplotlib en línea
+    higo  =  plt . figura ()
+    por favor dispersión ( zip_long , zip_lat , s  =  zip_count , c =  zip_count )
+    por favor barra de colores ()
+    # solo Estados Unidos continental sin Alaska
+@@ -81,4 +82,5 @@ def map_science(tipo):
+    plSize  =  parámetros . obtener_tamaño_pulgadas ()
+    parámetros _ set_size_inches ( ( por tamaño [ 0 ] *  3 , por tamaño [ 1 ] *  3 ) )
+    por favor mostrar ()
+    higo _ savefig ( "img/mapas.jpg" )
+    devolver 
