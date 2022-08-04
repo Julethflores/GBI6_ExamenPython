@@ -1,9 +1,11 @@
 # GBI6_ExamenPython
 # DATOS PERSONALES 
-Juleth Belsabeth Flores Guerrero
-21 años 
-Biotecnologia 
-Sexto semestre 
+#Juleth Belsabeth Flores Guerrero
+#21 años 
+#Carrera de Ingeniería en Biotecnologia 
+#Sexto semestre
+#Domicilio Pto Napo 
+ 
 ##  CARACTERISTICAS DEL COMPUTADOR 
 Nombre del dispositivo	DESKTOP-2U9K9DS
 Procesador	11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.42 GHz
